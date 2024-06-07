@@ -26,8 +26,7 @@ When a new issue is created or updated, it processes the event and adds labels t
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/Okura66/Jira_AI_labels.git
    ```
 
 2. **Install dependencies**:
